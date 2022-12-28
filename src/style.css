@@ -1,0 +1,25 @@
+body{
+    font: 20px, arial, sans-serif;
+    font-family: 'Prosto One', cursive;
+}
+
+.navbar{
+    background-color: #298a08;;
+}
+
+.quemsomos{
+    background-color: #8181f7;
+    color: white;
+}
+
+.margin{
+    padding-bottom: 50px;
+}
+
+h3{
+    padding: 5px;
+}
+
+.parceiros{
+    background-color: #298a08;
+}
