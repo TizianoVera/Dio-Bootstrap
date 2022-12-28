@@ -4,11 +4,11 @@ body{
 }
 
 .navbar{
-    background-color: #298a08;;
+    background-color: #3BC7DE;;
 }
 
 .quemsomos{
-    background-color: #8181f7;
+    background-color: #34AEC2;
     color: white;
 }
 
@@ -21,5 +21,16 @@ h3{
 }
 
 .parceiros{
-    background-color: #298a08;
+    background-color: #2C95A6 ;
+    color: azure;
+}
+
+.serviços{
+    background-color: #257C8B;
+    color: azure;
+}
+
+.bg-footer{
+    background-color: #0F3237;
+    color: white;
 }
